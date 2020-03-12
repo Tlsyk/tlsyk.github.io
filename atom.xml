@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lsyk</title>
+  <title>LsykBlog</title>
   
-  
+  <subtitle>Lsyk</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://tlsyk.github.io/"/>
   <updated>2020-03-11T23:28:42.314Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://tlsyk.github.io/</id>
   
   <author>
     <name>Lsykmi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/posts/3eeb.htm"/>
-    <id>http://yoursite.com/posts/3eeb.htm</id>
+    <link href="http://tlsyk.github.io/posts/3eeb.htm"/>
+    <id>http://tlsyk.github.io/posts/3eeb.htm</id>
     <published>2020-03-11T16:39:15.092Z</published>
     <updated>2020-03-11T23:28:42.314Z</updated>
     
