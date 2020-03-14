@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tlsyk.github.io/"/>
-  <updated>2020-03-11T23:28:42.314Z</updated>
+  <updated>2020-03-14T23:56:27.554Z</updated>
   <id>http://tlsyk.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hallo blog.</title>
+    <link href="http://tlsyk.github.io/posts/6a30.htm"/>
+    <id>http://tlsyk.github.io/posts/6a30.htm</id>
+    <published>2020-03-14T23:26:41.000Z</published>
+    <updated>2020-03-14T23:56:27.554Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Hallo-blog&quot;&gt;&lt;a href=&quot;#Hallo-blog&quot; class=&quot;headerlink&quot; title=&quot;Hallo blog&quot;&gt;&lt;/a&gt;Hallo blog&lt;/h2&gt;&lt;p&gt;  enmmmm~ 怎么说呢&lt;br&gt; 
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://tlsyk.github.io/tags/hexo/"/>
+    
+      <category term="Yypora" scheme="http://tlsyk.github.io/tags/Yypora/"/>
+    
+      <category term="Markdown" scheme="http://tlsyk.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://tlsyk.github.io/posts/3eeb.htm"/>
     <id>http://tlsyk.github.io/posts/3eeb.htm</id>
     <published>2020-03-11T16:39:15.092Z</published>
-    <updated>2020-03-11T23:28:42.314Z</updated>
+    <updated>2020-03-14T23:28:55.959Z</updated>
     
     <summary type="html">
     
