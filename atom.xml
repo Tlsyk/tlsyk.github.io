@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://tlsyk.github.io/"/>
-  <updated>2020-03-14T23:56:27.554Z</updated>
+  <updated>2020-03-14T23:57:25.671Z</updated>
   <id>http://tlsyk.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://tlsyk.github.io/posts/6a30.htm"/>
     <id>http://tlsyk.github.io/posts/6a30.htm</id>
     <published>2020-03-14T23:26:41.000Z</published>
-    <updated>2020-03-14T23:56:27.554Z</updated>
+    <updated>2020-03-14T23:57:25.671Z</updated>
     
     <summary type="html">
     
@@ -42,29 +42,6 @@
       <category term="Yypora" scheme="http://tlsyk.github.io/tags/Yypora/"/>
     
       <category term="Markdown" scheme="http://tlsyk.github.io/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://tlsyk.github.io/posts/3eeb.htm"/>
-    <id>http://tlsyk.github.io/posts/3eeb.htm</id>
-    <published>2020-03-11T16:39:15.092Z</published>
-    <updated>2020-03-14T23:28:55.959Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
