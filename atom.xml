@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LsykBlog</title>
+  <title>Lsyk</title>
   
   <subtitle>Lsyk</subtitle>
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://tlsyk.github.io/</id>
   
   <author>
-    <name>Lsykmi</name>
+    <name>Tlsyk.</name>
     
   </author>
   
